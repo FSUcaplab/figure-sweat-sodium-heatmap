@@ -1,0 +1,32 @@
+TY  - JOUR
+TI  - Can We Protect Our Hearts by Sweating Out Excess Sodium?
+AU  - Hoch, Jonathan W.
+AU  - Watso, Joseph C.
+T2  - Exercise and Sport Sciences Reviews
+PY  - 2026
+VL  - 54
+IS  - 2
+SP  - 89
+EP  - 98
+DO  - 10.1249/JES.0000000000000383
+AN  - 41718617
+UR  - https://doi.org/10.1249/JES.0000000000000383
+LA  - eng
+ER  - 
+
+TY  - COMP
+TI  - Sweat Sodium Loss Heatmap
+AU  - Hoch, Jonathan W.
+PY  - 2026
+DA  - 2026/03/18/
+UR  - https://github.com/FSUcaplab/figure-sweat-sodium-heatmap
+AB  - R code to model and visualize estimated sweat sodium loss across dry-bulb temperature and relative humidity conditions for passive (1-2 METs) and active (3-5 METs) interventions, with a Wet Bulb Globe Temperature contour overlaid on each panel. Companion code for the associated review article.
+KW  - sweat sodium
+KW  - sodium loss
+KW  - thermoregulation
+KW  - wet bulb globe temperature
+KW  - cardiovascular disease prevention
+KW  - data visualization
+N1  - License: MIT
+LA  - eng
+ER  - 

@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated review article."
+title: "Sweat Sodium Loss Heatmap"
+type: software
+authors:
+  - family-names: Hoch
+    given-names: "Jonathan W."
+    orcid: "https://orcid.org/0000-0002-4992-1199"
+    affiliation: "Cardiovascular and Applied Physiology Laboratory, Florida State University"
+repository-code: "https://github.com/FSUcaplab/figure-sweat-sodium-heatmap"
+url: "https://github.com/FSUcaplab/figure-sweat-sodium-heatmap"
+license: MIT
+date-released: 2026-03-18
+abstract: >-
+  R code to model and visualize estimated sweat sodium loss across dry-bulb
+  temperature and relative humidity conditions for passive (1-2 METs) and
+  active (3-5 METs) interventions, with a Wet Bulb Globe Temperature contour
+  overlaid on each panel. Companion code for the associated review article.
+keywords:
+  - sweat sodium
+  - sodium loss
+  - thermoregulation
+  - wet bulb globe temperature
+  - cardiovascular disease prevention
+  - data visualization
+preferred-citation:
+  type: article
+  title: "Can We Protect Our Hearts by Sweating Out Excess Sodium?"
+  authors:
+    - family-names: Hoch
+      given-names: "Jonathan W."
+      orcid: "https://orcid.org/0000-0002-4992-1199"
+    - family-names: Watso
+      given-names: "Joseph C."
+      orcid: "https://orcid.org/0000-0001-7840-0643"
+  journal: "Exercise and Sport Sciences Reviews"
+  year: 2026
+  volume: 54
+  issue: 2
+  start: 89
+  end: 98
+  doi: "10.1249/JES.0000000000000383"
+  url: "https://doi.org/10.1249/JES.0000000000000383"
+  identifiers:
+    - type: other
+      value: "PMID: 41718617"
+      description: "PubMed ID"
+    - type: other
+      value: "PMCID: PMC12989138"
+      description: "PubMed Central ID"
